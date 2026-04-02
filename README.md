@@ -1,7 +1,5 @@
  Income Classification Project (Subsidy Prediction)
-
- Overview
-
+ 
 This project focuses on building a **Binary Classification Model** to predict whether an individual belongs to a **high-income (>50K)** or **low-income (≤50K)** category.
 The goal is to assist organizations in making better decisions for subsidy allocation.
 
